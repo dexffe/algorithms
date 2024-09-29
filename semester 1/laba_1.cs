@@ -31,5 +31,5 @@ l = Convert.ToInt32(Console.ReadLine()); // 3
 N = Convert.ToInt32(Console.ReadLine()); // 1 - 22  2 - 50 3 - 84 4 - 124
 
 int res;
-res = N*(2*m+2*P) + (N*N+N)*l;
+res = 2*n*p + (n*n + n)*l + 2*n*m;
 Console.WriteLine(res);
