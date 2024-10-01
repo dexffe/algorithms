@@ -1,0 +1,5 @@
+d:\projectsVSCode\algorithms\semester_1\13.09.2024\obj\Debug\net8.0\13.09.2024.GeneratedMSBuildEditorConfig.editorconfig
+d:\projectsVSCode\algorithms\semester_1\13.09.2024\obj\Debug\net8.0\13.09.2024.AssemblyInfoInputs.cache
+d:\projectsVSCode\algorithms\semester_1\13.09.2024\obj\Debug\net8.0\13.09.2024.AssemblyInfo.cs
+d:\projectsVSCode\algorithms\semester_1\13.09.2024\obj\Debug\net8.0\13.09.2024.csproj.CoreCompileInputs.cache
+d:\projectsVSCode\algorithms\semester_1\13.09.2024\obj\Debug\net8.0\13.09.2024.sourcelink.json
