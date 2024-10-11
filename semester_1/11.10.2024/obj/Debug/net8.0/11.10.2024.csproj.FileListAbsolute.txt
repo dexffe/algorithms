@@ -1,0 +1,15 @@
+C:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.AssemblyInfoInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.AssemblyInfo.cs
+C:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.csproj.CoreCompileInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.sourcelink.json
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\bin\Debug\net8.0\11.10.2024.exe
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\bin\Debug\net8.0\11.10.2024.deps.json
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\bin\Debug\net8.0\11.10.2024.runtimeconfig.json
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\bin\Debug\net8.0\11.10.2024.dll
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\bin\Debug\net8.0\11.10.2024.pdb
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.dll
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\refint\11.10.2024.dll
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.pdb
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\11.10.2024.genruntimeconfig.cache
+c:\Users\dexff\code\algorithms\semester_1\11.10.2024\obj\Debug\net8.0\ref\11.10.2024.dll
