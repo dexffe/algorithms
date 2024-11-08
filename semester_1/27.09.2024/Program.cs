@@ -79,4 +79,5 @@ for (int i = 0; i < n; i++)
         }
     lastNumber = a;
 }
+maxLength = Math.Max(maxLength, count);
 Console.WriteLine(maxLength);
