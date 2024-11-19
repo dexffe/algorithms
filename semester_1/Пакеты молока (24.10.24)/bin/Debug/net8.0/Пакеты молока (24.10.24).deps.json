@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Пакеты молока (24.10.24)/1.0.0": {
+        "runtime": {
+          "Пакеты молока (24.10.24).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Пакеты молока (24.10.24)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

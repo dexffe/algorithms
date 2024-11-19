@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projectsVSCode\\algorithms\\semester_1\\27.09.2024\\27.09.2024.csproj",
+      "projectUniqueName": "C:\\Users\\dexff\\code\\algorithms\\semester_1\\27.09.2024\\27.09.2024.csproj",
       "projectName": "27.09.2024",
-      "projectPath": "D:\\projectsVSCode\\algorithms\\semester_1\\27.09.2024\\27.09.2024.csproj",
+      "projectPath": "C:\\Users\\dexff\\code\\algorithms\\semester_1\\27.09.2024\\27.09.2024.csproj",
       "packagesPath": "C:\\Users\\dexff\\.nuget\\packages\\",
-      "outputPath": "D:\\projectsVSCode\\algorithms\\semester_1\\27.09.2024\\obj\\",
+      "outputPath": "C:\\Users\\dexff\\code\\algorithms\\semester_1\\27.09.2024\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

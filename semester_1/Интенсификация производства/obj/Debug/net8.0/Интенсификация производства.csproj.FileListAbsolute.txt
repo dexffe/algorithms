@@ -1,0 +1,15 @@
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\bin\Debug\net8.0\Интенсификация производства.exe
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\bin\Debug\net8.0\Интенсификация производства.deps.json
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\bin\Debug\net8.0\Интенсификация производства.runtimeconfig.json
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\bin\Debug\net8.0\Интенсификация производства.dll
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\bin\Debug\net8.0\Интенсификация производства.pdb
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.AssemblyInfoInputs.cache
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.AssemblyInfo.cs
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.csproj.CoreCompileInputs.cache
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.sourcelink.json
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.dll
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\refint\Интенсификация производства.dll
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.pdb
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\Интенсификация производства.genruntimeconfig.cache
+c:\Users\dexff\code\algorithms\semester_1\Интенсификация производства\obj\Debug\net8.0\ref\Интенсификация производства.dll
