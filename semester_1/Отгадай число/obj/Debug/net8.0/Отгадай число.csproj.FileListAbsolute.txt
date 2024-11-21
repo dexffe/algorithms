@@ -1,0 +1,15 @@
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\bin\Debug\net8.0\Отгадай число.exe
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\bin\Debug\net8.0\Отгадай число.deps.json
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\bin\Debug\net8.0\Отгадай число.runtimeconfig.json
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\bin\Debug\net8.0\Отгадай число.dll
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\bin\Debug\net8.0\Отгадай число.pdb
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.AssemblyInfoInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.AssemblyInfo.cs
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.csproj.CoreCompileInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.sourcelink.json
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.dll
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\refint\Отгадай число.dll
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.pdb
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\Отгадай число.genruntimeconfig.cache
+C:\Users\dexff\code\algorithms\semester_1\Отгадай число\obj\Debug\net8.0\ref\Отгадай число.dll
