@@ -22,9 +22,11 @@ void Task1() {
         for (int j = 0; j < m; j++) {
             if (numbersList[j, i] == 0) {
                 countZero++;
+            } else {
+                sumNumbers += numbersList[j, i];    
+                compositionNumbers *= numbersList[j, i];
             }
-            sumNumbers += numbersList[j, i];
-            compositionNumbers *= numbersList[j, i];
+
         }
         conditions[i, 0] = countZero;
         conditions[i, 1] = sumNumbers;
