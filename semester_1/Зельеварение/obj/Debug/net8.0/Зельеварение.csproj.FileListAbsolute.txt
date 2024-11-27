@@ -1,0 +1,5 @@
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.AssemblyInfoInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.AssemblyInfo.cs
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.csproj.CoreCompileInputs.cache
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.sourcelink.json
