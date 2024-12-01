@@ -3,3 +3,13 @@ C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net
 C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.AssemblyInfo.cs
 C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.csproj.CoreCompileInputs.cache
 C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.sourcelink.json
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\bin\Debug\net8.0\Зельеварение.exe
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\bin\Debug\net8.0\Зельеварение.deps.json
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\bin\Debug\net8.0\Зельеварение.runtimeconfig.json
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\bin\Debug\net8.0\Зельеварение.dll
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\bin\Debug\net8.0\Зельеварение.pdb
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.dll
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\refint\Зельеварение.dll
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.pdb
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\Зельеварение.genruntimeconfig.cache
+C:\Users\dexff\code\algorithms\semester_1\Зельеварение\obj\Debug\net8.0\ref\Зельеварение.dll
