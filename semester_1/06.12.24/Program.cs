@@ -32,7 +32,12 @@ namespace Task
             }
         }
         public void Subtraction() {
-            Console.WriteLine(y - x);
+            if (x != 0 && y != 0) {
+                Console.WriteLine(y - x);
+                Console.WriteLine(x - y);
+            } else {
+                Console.WriteLine(y - x);
+            }    
         }
 }
 class Program {
