@@ -23,7 +23,7 @@ for (int i = 0; i < n; i++)
     S1 = 2*(x1*x2 + x1*x3 + x2*x3);
     S2 = 2*(y1*y2 + y1*y3 + y2*y3);
 
-    price_milk = (-c1 + (S1*c2)/S2)/(-((V1-S1)/1000) + (S1*((V2-S2)/1000))/S2);
+    price_milk = 1000*(S1*c2-S2*c1)/(V2*S1-V1*S2);
 
     if (price_milk < min_price_milk)
     {

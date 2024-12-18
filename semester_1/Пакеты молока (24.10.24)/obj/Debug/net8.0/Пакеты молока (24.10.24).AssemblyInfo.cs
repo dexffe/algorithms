@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Пакеты молока (24.10.24)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f5b337527568e88995404c3b0145c5466107173")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25c347c733fe5137305ce9533e7dde9f908ee79a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Пакеты молока (24.10.24)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Пакеты молока (24.10.24)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
