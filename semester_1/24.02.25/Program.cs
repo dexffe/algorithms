@@ -2,23 +2,22 @@
 Stack<string> stack_brackets = new Stack<string>();
 
 for (int i = 0; i < equation.Length; i++) {
-    if (equation[i] == '(') {
-        stack_brackets.Push("(");
-    } else if (equation[i] == ')') {
-        if (stack_brackets.Count > 0 && stack_brackets.Peek() == "(") {
-            stack_brackets.Pop();
+    if (equation[i] == '(' || equation[i] == '{' || equation[i] == '[') {
+        stack_brackets.Push(equation[i].ToString());
+    } else if (equation[i] == ')' || equation[i] == '}' || equation[i] == ']') {   
+        if (stack_brackets.Count == 0) {
+            Console.WriteLine("NO");
+            return;
         }
-    } else if (equation[i] == '{') {
-        stack_brackets.Push("{");
-    } else if (equation[i] == '}') {
-        if (stack_brackets.Count > 0 && stack_brackets.Peek() == "{") {
-            stack_brackets.Pop();
-        }
-    } else if (equation[i] == '[') {
-        stack_brackets.Push("[");
-    } else if (equation[i] == ']') {
-        if (stack_brackets.Count > 0 && stack_brackets.Peek() == "[") {
-            stack_brackets.Pop();
+        if (equation[i] == ')' && stack_brackets.Pop() != "(") {
+            Console.WriteLine("NO");
+            return;
+        } else if (equation[i] == '}' && stack_brackets.Pop() != "{") {
+            Console.WriteLine("NO");
+            return;
+        } else if (equation[i] == ']' && stack_brackets.Pop() != "[") {
+            Console.WriteLine("NO");
+            return;
         }
     }
 }
