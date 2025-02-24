@@ -1,15 +1,30 @@
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.AssemblyInfoInputs.cache
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.AssemblyInfo.cs
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.csproj.CoreCompileInputs.cache
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.sourcelink.json
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\bin\Debug\net8.0\06.12.24.exe
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\bin\Debug\net8.0\06.12.24.deps.json
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\bin\Debug\net8.0\06.12.24.runtimeconfig.json
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\bin\Debug\net8.0\06.12.24.dll
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\bin\Debug\net8.0\06.12.24.pdb
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.dll
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\refint\06.12.24.dll
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.pdb
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\06.12.24.genruntimeconfig.cache
-C:\Users\dexff\code\algorithms\semester_1\06.12.24\obj\Debug\net8.0\ref\06.12.24.dll
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.AssemblyInfoInputs.cache
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.AssemblyInfo.cs
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.csproj.CoreCompileInputs.cache
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.sourcelink.json
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.exe
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.deps.json
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.runtimeconfig.json
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.dll
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.pdb
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.dll
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/refint/06.12.24.dll
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.pdb
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.genruntimeconfig.cache
+C:/Users/dexff/code/algorithms/semester_1/06.12.24/obj/Debug/net8.0/ref/06.12.24.dll
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.deps.json
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.dll
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/bin/Debug/net8.0/06.12.24.pdb
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.dll
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/refint/06.12.24.dll
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.pdb
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/06.12.24.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_1/06.12.24/obj/Debug/net8.0/ref/06.12.24.dll

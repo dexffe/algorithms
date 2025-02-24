@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_1/test/bin/Debug/net9.0/test
+/home/artem/projects VSCode /algorithms/semester_1/test/bin/Debug/net9.0/test.deps.json
+/home/artem/projects VSCode /algorithms/semester_1/test/bin/Debug/net9.0/test.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_1/test/bin/Debug/net9.0/test.dll
+/home/artem/projects VSCode /algorithms/semester_1/test/bin/Debug/net9.0/test.pdb
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.dll
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/refint/test.dll
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.pdb
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/test.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_1/test/obj/Debug/net9.0/ref/test.dll

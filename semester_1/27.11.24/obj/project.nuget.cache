@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zFZs3lffw1Q=",
+  "dgSpecHash": "G4F345jBwAE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dexff\\code\\algorithms\\semester_1\\27.11.24\\27.11.24.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/artem/projects VSCode /algorithms/semester_1/27.11.24/27.11.24.csproj",
+  "expectedPackageFiles": [
+    "/home/artem/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/artem/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/artem/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

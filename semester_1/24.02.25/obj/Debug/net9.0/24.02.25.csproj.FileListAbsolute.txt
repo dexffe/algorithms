@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/bin/Debug/net9.0/24.02.25
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/bin/Debug/net9.0/24.02.25.deps.json
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/bin/Debug/net9.0/24.02.25.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/bin/Debug/net9.0/24.02.25.dll
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/bin/Debug/net9.0/24.02.25.pdb
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.dll
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/refint/24.02.25.dll
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.pdb
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/24.02.25.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_1/24.02.25/obj/Debug/net9.0/ref/24.02.25.dll
