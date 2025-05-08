@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/bin/Debug/net9.0/24.03.25 (horse)
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/bin/Debug/net9.0/24.03.25 (horse).deps.json
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/bin/Debug/net9.0/24.03.25 (horse).runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/bin/Debug/net9.0/24.03.25 (horse).dll
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/bin/Debug/net9.0/24.03.25 (horse).pdb
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).dll
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/refint/24.03.25 (horse).dll
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).pdb
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/24.03.25 (horse).genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_2/24.03.25 (horse)/obj/Debug/net9.0/ref/24.03.25 (horse).dll

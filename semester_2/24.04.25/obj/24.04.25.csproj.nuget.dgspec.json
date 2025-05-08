@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/artem/projects VSCode /algorithms/semester_2/24.03.25/24.03.25.csproj": {}
+    "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/24.04.25.csproj": {}
   },
   "projects": {
-    "/home/artem/projects VSCode /algorithms/semester_2/24.03.25/24.03.25.csproj": {
+    "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/24.04.25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/artem/projects VSCode /algorithms/semester_2/24.03.25/24.03.25.csproj",
-        "projectName": "24.03.25",
-        "projectPath": "/home/artem/projects VSCode /algorithms/semester_2/24.03.25/24.03.25.csproj",
+        "projectUniqueName": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/24.04.25.csproj",
+        "projectName": "24.04.25",
+        "projectPath": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/24.04.25.csproj",
         "packagesPath": "/home/artem/.nuget/packages/",
-        "outputPath": "/home/artem/projects VSCode /algorithms/semester_2/24.03.25/obj/",
+        "outputPath": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/artem/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
