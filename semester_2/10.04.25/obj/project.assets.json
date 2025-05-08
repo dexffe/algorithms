@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/10.04.25/10.04.25.csproj",
+      "projectUniqueName": "/home/artem/projects VSCode /algorithms/semester_2/10.04.25/10.04.25.csproj",
       "projectName": "10.04.25",
-      "projectPath": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/10.04.25/10.04.25.csproj",
+      "projectPath": "/home/artem/projects VSCode /algorithms/semester_2/10.04.25/10.04.25.csproj",
       "packagesPath": "/home/artem/.nuget/packages/",
-      "outputPath": "/home/artem/projects VSCode /algorithms/semester_2/24.04.25/10.04.25/obj/",
+      "outputPath": "/home/artem/projects VSCode /algorithms/semester_2/10.04.25/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/artem/.nuget/NuGet/NuGet.Config"
