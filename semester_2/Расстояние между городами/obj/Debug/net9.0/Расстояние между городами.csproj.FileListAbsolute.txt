@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/bin/Debug/net9.0/Расстояние между городами
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/bin/Debug/net9.0/Расстояние между городами.deps.json
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/bin/Debug/net9.0/Расстояние между городами.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/bin/Debug/net9.0/Расстояние между городами.dll
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/bin/Debug/net9.0/Расстояние между городами.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.dll
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/refint/Расстояние между городами.dll
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/Расстояние между городами.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_2/Расстояние между городами/obj/Debug/net9.0/ref/Расстояние между городами.dll
