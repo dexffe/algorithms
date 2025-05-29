@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_2/Города/bin/Debug/net9.0/Города
+/home/artem/projects VSCode /algorithms/semester_2/Города/bin/Debug/net9.0/Города.deps.json
+/home/artem/projects VSCode /algorithms/semester_2/Города/bin/Debug/net9.0/Города.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_2/Города/bin/Debug/net9.0/Города.dll
+/home/artem/projects VSCode /algorithms/semester_2/Города/bin/Debug/net9.0/Города.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.dll
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/refint/Города.dll
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/Города.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_2/Города/obj/Debug/net9.0/ref/Города.dll
