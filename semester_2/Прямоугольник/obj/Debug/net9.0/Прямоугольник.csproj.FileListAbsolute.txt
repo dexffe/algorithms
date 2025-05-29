@@ -1,0 +1,15 @@
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/bin/Debug/net9.0/Прямоугольник
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/bin/Debug/net9.0/Прямоугольник.deps.json
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/bin/Debug/net9.0/Прямоугольник.runtimeconfig.json
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/bin/Debug/net9.0/Прямоугольник.dll
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/bin/Debug/net9.0/Прямоугольник.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.GeneratedMSBuildEditorConfig.editorconfig
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.AssemblyInfoInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.AssemblyInfo.cs
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.csproj.CoreCompileInputs.cache
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.sourcelink.json
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.dll
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/refint/Прямоугольник.dll
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.pdb
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/Прямоугольник.genruntimeconfig.cache
+/home/artem/projects VSCode /algorithms/semester_2/Прямоугольник/obj/Debug/net9.0/ref/Прямоугольник.dll
